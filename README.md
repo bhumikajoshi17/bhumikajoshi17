@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikajoshi17&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikajoshi17" /> </p>
 
-- 🌱 I’m currently learning **(Data Structures and Algorithms)DSA**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **real world projects.**
 
 - 💬 Ask me about **Web Devlopment**
 
-- 📫 How to reach me **joshibhumi172005@gmail.com**
+- 📫 You can reach me here : **joshibhumi172005@gmail.com**
 
-- ⚡ Fun fact **I believe console.log() is a developer’s best friend 🖤.**
+- ⚡ Fun fact : **I believe console.log() is a developer’s best friend 🖤.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
